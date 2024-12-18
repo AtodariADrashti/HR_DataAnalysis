@@ -1,2 +1,2 @@
 # HR_DataAnalysis
-The data cleaned and queried using MySQL and dashboard created by PowerBI
+The data was cleaned and queried using MySQL and a dashboard created by PowerBI
