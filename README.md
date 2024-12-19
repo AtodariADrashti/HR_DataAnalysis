@@ -8,13 +8,14 @@
 - [Summary](#summary)
   
 ## Project Overview 
-Aim of this analysis project is to identify patterns, trends, and insights about the workforce sysetm, employee engagement, gender based performance, retention, and overall business outcomes.
+---
+The aim of this analysis project is to identify patterns, trends, and insights about the workforce system, employee engagement, gender-based performance, location, and overall business outcomes.
 
 ![dashboard creation](https://github.com/user-attachments/assets/84aeb63c-7a98-4216-9e00-94377d946704)
 
 
 ## Data Sources
-HR DATA: primary dataset used for this project is "Human Resources.csv" file.
+HR DATA: The primary dataset used for this project is the "Human Resources.csv" file.
 https://raw.githubusercontent.com/Irene-arch/HR-Dashboard-MySQL-PowerBI/refs/heads/main/Human%20Resources.csv
 
 ## Data Used
@@ -40,10 +41,18 @@ https://raw.githubusercontent.com/Irene-arch/HR-Dashboard-MySQL-PowerBI/refs/hea
 
 ## Summary
  - There are more male employees than female employees, out of them other states employees are most dominant while Native Hawaiian and American Indian are the least dominant.
- - Cosidering the youth youngest employee is 20 years old and the oldest one is 57 years old
- - Here we create 5 age groups (18-24, 25-34, 35-44, 45-54, 55-64). A large praportion of workforce is between the age of 25-34 followed by 35-44 while the smallest group was 55-64.
- - A large number of employees work at the headquarters in compare to remote.
+ - Considering the youth's youngest employee is 20 years old and the oldest one is 57 years old
+ - Here we create 5 age groups (18-24, 25-34, 35-44, 45-54, 55-64). A large proportion of the workforce is between the age of 25-34 followed by 35-44 while the smallest group was 55-64.
+ - Many employees work at the headquarters compared to remote employees.
  - The average length of employment for terminated employees is around 7 years.
  - The gender distribution  is fairly balanced across departments 
- - The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
- - likewise large number of employees come from the state of Ohio least from Kentucky.
+ - The Marketing department has the highest turnover rate followed by Training. The lowest turnover rate is in the Research and Development, Support and Legal departments.
+ Likewise, a large number of employees come from Ohio, least from Kentucky.
+
+😃
+💻
+
+| Heading 1 | Heading 2|
+| --------- | -------- |
+| Content 1 | Content 2|
+| Python | SQL |
