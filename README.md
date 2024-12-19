@@ -10,6 +10,9 @@
 ## Project Overview 
 Aim of this analysis project is to identify patterns, trends, and insights about the workforce sysetm, employee engagement, gender based performance, retention, and overall business outcomes.
 
+![dashboard creation](https://github.com/user-attachments/assets/84aeb63c-7a98-4216-9e00-94377d946704)
+
+
 ## Data Sources
 HR DATA: primary dataset used for this project is "Human Resources.csv" file.
 https://raw.githubusercontent.com/Irene-arch/HR-Dashboard-MySQL-PowerBI/refs/heads/main/Human%20Resources.csv
